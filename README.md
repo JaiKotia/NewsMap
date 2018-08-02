@@ -1,2 +1,1 @@
 # NewsMap
-# NewsMap
